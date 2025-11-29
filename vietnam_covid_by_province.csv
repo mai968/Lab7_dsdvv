@@ -1,4 +1,4 @@
-﻿province;infected_case;death;new_cases
+﻿province;infectedCase;death;newCases
 Cả nước;"11.549.848	";42.789;140
 Hà Nội;1.646.923;1.232;2
 TP. Hồ Chí Minh;629.018;19.985;3
@@ -63,3 +63,4 @@ Sóc Trăng;34.457;634;0
 Kon Tum;26.342;1;0
 Hậu Giang;17.900;231;0
 Ninh Thuận;9.001;60;0
+
